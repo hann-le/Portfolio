@@ -329,3 +329,10 @@ footer {
   box-shadow: 0 4px 15px rgba(74, 157, 183, 0.4);
   margin-bottom: 1rem;
 }
+
+/* Devicon icon styling inside skills list */
+.skills-list i {
+  font-size: 1.3rem;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
